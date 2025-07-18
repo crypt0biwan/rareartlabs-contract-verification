@@ -1,0 +1,13 @@
+{
+  "name": "rareartlabs-contracts",
+  "description": "Rare Art Labs contract verification",
+  "main": "compile.js",
+  "scripts": {
+    "compile": "node --no-warnings compile.js"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "solc": "0.4.22",
+    "zeppelin-solidity": "1.8.0"
+  }
+}
